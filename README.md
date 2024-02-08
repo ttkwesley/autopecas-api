@@ -6,7 +6,8 @@ Ela fornece endpoints para cadastrar, recuperar, atualizar e excluir produtos do
 <p>Você pode fazer requisiçoes para a api da autopeças utilizando o <b>postman</b> para a realização de um acesso rápido e ágil a todos os verbos HTTPS</p>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303426768-637d5ff6-bb9c-4765-b08b-26326389c588.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T172722Z&X-Amz-Expires=300&X-Amz-Signature=a3153a7e4368aad4cb02222613aa26d529e39a845152bd4f280314a8afcb864f&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
 
-<a href="https://www.postman.com/downloads/" target="_blank">clique aqui </a>para realizar o download
+Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a> <b>(Você sera redirecionado)</b> 
+
 
 ## Endpoints
 <p>Nossa api conta com os seguintes endpoints</p>
