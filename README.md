@@ -1,4 +1,4 @@
-![image](https://github.com/ttkwesley/autopecas-api/assets/115328362/3fccb7f7-2bbd-4dcd-bfe2-c7055ebb4b59)## Descrição geral 
+## Descrição geral 
 A API Autopeças é uma aplicação que permite gerenciar os produtos de uma loja. 
 Ela fornece endpoints para cadastrar, recuperar, atualizar e excluir produtos do catálogo.
 
