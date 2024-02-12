@@ -1,4 +1,4 @@
-## Descrição geral 
+![image](https://github.com/ttkwesley/autopecas-api/assets/115328362/3fccb7f7-2bbd-4dcd-bfe2-c7055ebb4b59)## Descrição geral 
 A API Autopeças é uma aplicação que permite gerenciar os produtos de uma loja. 
 Ela fornece endpoints para cadastrar, recuperar, atualizar e excluir produtos do catálogo.
 
@@ -16,7 +16,8 @@ Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a
 <p>• URL: /autopecas</p>
 <p>• Verbo HTTP: 'POST'</p>
 <p>• Exemplo de Solicitação via <b>postman:</b></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303424268-54befa82-5bbc-48fb-85eb-a589a9771c84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T171840Z&X-Amz-Expires=300&X-Amz-Signature=9a008138290d4d01d9f5bfe854970ee19487e0e61c67efb14c1ef649e51f5752&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304134668-c98e54d3-17a8-40bd-9c50-d154637208ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T152140Z&X-Amz-Expires=300&X-Amz-Signature=30d7d8dee2186cabef428a99b207d5c584fceaf924458b71927563195dfe2a56&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+
 <p>• Exemplo de resposta <b>(Sucesso)</b> via <b>postman:</b></p>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303425424-14d38cc1-e9d1-43a1-9239-a5f91bb10cde.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T172230Z&X-Amz-Expires=300&X-Amz-Signature=54373833394f77aa9626631c8ee4720ece1ad30476d4e2909560d5a286b7e4d0&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
 
@@ -25,7 +26,8 @@ Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a
 <p>• URL: /autopecas</p>
 <p>• Verbo HTTP: 'GET'</p>
 <p>• Exemplo de Solicitação via <b>postman:</b></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303428817-41c0a9af-5fc2-4c86-a802-2d364d82c926.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T173444Z&X-Amz-Expires=300&X-Amz-Signature=a54f669be0f7e746eb530fb9d19ebfeedad51703e10a37ccb40516e2d4237ae0&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304135086-785f46a3-3f92-4b74-8e97-f96211def9c5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T152345Z&X-Amz-Expires=300&X-Amz-Signature=add65d1d237463fff9fa985b1cc3d1ac6337762ccc1c987485a0cf42eb5d2526&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+
 <p><b>OBS:</b> a requisição pode ser feita tambem diretamente pela url do navegador, através do localhost.</p>
 <p>• Exemplo de resposta <b>(Sucesso)</b> via <b>postman:</b></p>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303430531-3f073db0-fbcc-4fe3-a6c1-9c1b8384fd02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T174007Z&X-Amz-Expires=300&X-Amz-Signature=8be7c8dabc23a716658b7f3de3bdf2cb7fb0a2888bac2240f43ba8de9430b6ac&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
@@ -47,8 +49,7 @@ Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a
 <p>• Produto <b>antes de receber a atualização:</b></b></p>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303438425-a990ff2c-f9fa-43fd-bb01-2ad9fa269cbd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T180621Z&X-Amz-Expires=300&X-Amz-Signature=c96049be27b71202693ef76403993e7d181001020a0cf940bcba8dd7f4b59866&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
 <p>• Exemplo de resposta <b>(Sucesso)</b> via <b>postman</b> apos o produto ser <b>atualizado</b>:</b></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303439286-7f71103d-55d4-4f7a-9993-996a16513c8e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T180955Z&X-Amz-Expires=300&X-Amz-Signature=576e9b4ea8ee552f7149e4e354cc80311eb5d277725b9ae6d7f3043ce0448a5d&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
-
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304135774-dc5c6a2e-26fc-4579-9794-7116e83bdba9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T152508Z&X-Amz-Expires=300&X-Amz-Signature=443364be128894c6c60e8f3e1a3b2cf17dc9f73a18d7acd5d18b9fa678241bf1&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
 
 
 
@@ -73,5 +74,6 @@ Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a
 
 ### '404 Not Found': 
 <p>O retorno significa que o produto que está sendo solicitado não foi encontrado, ou já foi excluido.</p>
+
 
 
