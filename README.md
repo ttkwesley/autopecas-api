@@ -44,12 +44,14 @@ Para baixar o Postman, clique neste <a href="facebook.com" href="_blank">link</a
 <p>• URL: /autopecas/{ID}</p>
 <p>• Verbo HTTP: 'PUT'</p>
 <p>• Exemplo de Solicitação via <b>postman:</b></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303438020-1eded82c-ce30-4101-9d4c-5fd7e124fead.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T180500Z&X-Amz-Expires=300&X-Amz-Signature=08fff2c50c67b6852765fa5b1efb9b1ba4d317be5959a886ff5a6060e6d63a36&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304330154-8e18831d-db46-4f72-a88d-b3d003ecafb7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240213T074344Z&X-Amz-Expires=300&X-Amz-Signature=26d7bdb9a746cd2a2cb730bdf8e6cb76e30d2ae3a1c45c1a5a1fd9a3bb740118&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+
 
 <p>• Produto <b>antes de receber a atualização:</b></b></p>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/303438425-a990ff2c-f9fa-43fd-bb01-2ad9fa269cbd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240208T180621Z&X-Amz-Expires=300&X-Amz-Signature=c96049be27b71202693ef76403993e7d181001020a0cf940bcba8dd7f4b59866&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+
 <p>• Exemplo de resposta <b>(Sucesso)</b> via <b>postman</b> apos o produto ser <b>atualizado</b>:</b></p>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304135774-dc5c6a2e-26fc-4579-9794-7116e83bdba9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240212T152508Z&X-Amz-Expires=300&X-Amz-Signature=443364be128894c6c60e8f3e1a3b2cf17dc9f73a18d7acd5d18b9fa678241bf1&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/115328362/304330557-20e29dc6-e71c-4287-bae2-d4d55fdb3731.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240213T074511Z&X-Amz-Expires=300&X-Amz-Signature=fee19f1c748286d2585c21c50b08558365faf774074b2751e1fdd045c4d6debe&X-Amz-SignedHeaders=host&actor_id=115328362&key_id=0&repo_id=754712609">
 
 
 
